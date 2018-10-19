@@ -12,3 +12,4 @@ minje yunje seulbi and joongwon
 - How to coolaborate with your coworker?
 
 # new Contents
+- git flow is difficult
